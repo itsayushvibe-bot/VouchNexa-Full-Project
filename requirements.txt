@@ -1,0 +1,13 @@
+aiogram>=3.15.0
+sqlalchemy>=2.0.36
+asyncpg>=0.30.0
+aiosqlite>=0.20.0
+pydantic>=2.10.0
+pydantic-settings>=2.6.0
+python-dotenv>=1.0.1
+qrcode[pil]>=8.0
+pillow>=11.0.0
+pytz>=2024.2
+apscheduler>=3.10.4
+pytest>=8.3.3
+pytest-asyncio>=0.24.0
