@@ -1,0 +1,11 @@
+.env
+.env
+*.tbd
+*.tbd-shm
+__pycache__/
+*.py[co]
+.coverage
+.pytest_cache/
+.pyrelase/
+.venv/
+venv/
